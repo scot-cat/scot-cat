@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on building models related to physics, data analysis
 - 📫 How to reach me - gmgondi30@gmail.com
 
-<h3 align="center">🛠️ Languages & Frameworks</h3>
+<h3 align="left">🛠️ Languages & Frameworks</h3>
 
 
 ![Python](https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white)
